@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello there! 👋
 
-<!--
-**yoodan/yoodan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i was previously a software dev at amazon doing back-end and mobile development in kotlin and java ☕️
 
-Here are some ideas to get you started:
+now i'm at a super mysterious company doing full-stack web dev 🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning:
+- html / css
+- javascript
+- typescript
+- react
+- node
+- how to make better espresso
+
+⚡ Fun fact:
+i can't think of any 

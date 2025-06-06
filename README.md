@@ -14,8 +14,8 @@ now i'm at a super mysterious company doing full-stack web dev 🤖
 - how to make better espresso
 
 👨🏻‍💻 setup right now:
-keyboard — ergodox-ez (split keyboard btw)
-editor - vscode insiders
-ai platforms - copilot (work) and t3.chat (personal)
+- keyboard — ergodox-ez (split keyboard btw)
+- editor - vscode insiders
+- ai platforms - copilot (work) and t3.chat (personal)
 
 

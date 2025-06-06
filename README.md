@@ -18,4 +18,5 @@ now i'm at a super mysterious company doing full-stack web dev 🤖
 - editor - vscode insiders
 - ai platforms - copilot (work) and t3.chat (personal)
 
+![snoopy skating](./snoopy-skating.gif)
 

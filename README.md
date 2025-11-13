@@ -1,6 +1,6 @@
 ### yo 👋 
 
-i'm dan yoo, swe @ here rn (>ᴗ•) ! 
+i'm dan yoo, swe @ **here** _rn_ (>ᴗ•) ! 
 
 I like making things for the big guys and the little guys. Stuff that impacts millions or your local neighborhood. 
 

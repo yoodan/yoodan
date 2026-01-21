@@ -20,6 +20,4 @@ Previous: _kotlin, java, android, and once upon a time... c++_
 ### a bit about me 
 - i like photos
 - i like videos
-- the only game i play is tft
-- dabbling in pokemon cards
 - love playing cards
